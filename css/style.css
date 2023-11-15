@@ -1,0 +1,28 @@
+p,
+a{
+  margin: 0;
+}
+.navbar-position{
+  flex-grow: 0;
+}
+
+.filter-list button{
+  max-width: 100px;
+}
+
+.stats p{
+  width: 1.5rem;
+}
+
+article{
+  width: 28rem;
+}
+
+li.Country-hover{
+  transition: background-color 0.2s;
+}
+
+li.Country-hover:hover{
+  background-color: rgb(218, 218, 218);
+  border-radius: 5px;
+}
