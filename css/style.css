@@ -26,3 +26,12 @@ li.Country-hover:hover{
   background-color: rgb(218, 218, 218);
   border-radius: 5px;
 }
+
+.stade-pic{
+  width: 80%;
+}
+
+.stade-pic img{
+  width: 100%;
+  height: 100%;
+}
